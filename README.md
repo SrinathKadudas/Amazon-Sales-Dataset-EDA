@@ -33,3 +33,15 @@ Equip businesses with the knowledge to create products that cater to evolving co
 Craft communication strategies that resonate with specific demographics and maximize engagement.
 Facilitate a marketplace where products find their perfect match in the hearts of consumers.
 
+
+
+### Import Libraries Used
+
+
+We will use the following libraries
+1. Pandas: Data manipulation and analysis
+2. Numpy: Numerical operations and calculations
+3. Matplotlib: Data visualization and plotting
+4. Seaborn: Enhanced data visualization and statistical graphics
+5. Scipy: Scientific computing and advanced mathematical operations
+
